@@ -78,10 +78,6 @@ body {
   width: 100%;
 }
 
-.how-works img {
-  filter: blur(2px);
-}
-
 .functionality {
   text-align: center;
   width: 65%;
@@ -97,5 +93,4 @@ body {
 .functionality p {
   color: #f0f8ff;
   line-height: 1.5;
-  font-weight: 600;
 }
